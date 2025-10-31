@@ -100,9 +100,7 @@ An interactive Power BI dashboard delivering real-time insights into delivery tr
 ---
 
 ## 🖼️ Dashboard Preview  
-> *(Add your Power BI dashboard screenshot or GIF here)*  
-> Example:  
-> `[![Zomato Analytics Dashboard](images/zomato_dashboard_preview.png)](https://github.com/TousifA07/Zomato-analytics-Dashboard/blob/main/Zomato%20Analytics%20dashboard.png)`  
+>  `![Zomato Analytics Dashboard](images/zomato_dashboard_preview.png)`
 
 ---
 
