@@ -97,10 +97,6 @@ It helps teams monitor performance, track customer behavior, and make data-drive
 ## ✅ Outcome  
 An interactive Power BI dashboard delivering real-time insights into delivery trends, customer satisfaction, and restaurant performance — helping teams make smarter, faster decisions.  
 
----
-
-## 🖼️ Dashboard Preview  
->  `![Zomato Analytics Dashboard](images/Zomato Analytics dashboard.png)`
 
 ---
 
