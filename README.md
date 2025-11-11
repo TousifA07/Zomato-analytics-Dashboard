@@ -1,4 +1,4 @@
-# 🍽️ Zomato Analytics Dashboard  
+#  Zomato Analytics Dashboard  
 
 ### 📊 Overview  
 The **Zomato Analytics Dashboard** is a Power BI project designed to uncover insights from Zomato’s food delivery and restaurant data.  
